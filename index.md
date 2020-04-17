@@ -1,5 +1,3 @@
-title: Welcome to Nathan Gong's Website!
-description: if you're reading this, you're LB
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nathan-gong/nathan-gong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
