@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+```
 # Header 1
 ## Header 2
 ### Header 3
@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and **NEW IMAGE!**[image](https://user-images.githubusercontent.com/52764831/79622286-a3f71800-80e4-11ea-808e-66b1e77c5037.png)
-```
+[Cheapo Website I made](https://ymvamusic.wixsite.com/ymva) and **NEW IMAGE!**[image](https://user-images.githubusercontent.com/52764831/79622286-a3f71800-80e4-11ea-808e-66b1e77c5037.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
