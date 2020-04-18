@@ -12,7 +12,7 @@ Let salmon defrost at room temperature in a propped-up bowl (place towel underne
 Before cooking, if not completely dried, pat salmon down with paper towel
 Put pan on high heat with some oil
 Once hot, place salmon in and let cook for 2-3 minutes until looks like this:
-![Pre-salmon](/images/IMG_0148.jpg)
+![Pre-salmon](/images/IMG_0148.jpg =1000x500)
 
 Give it a flip so it looks like this:
 
