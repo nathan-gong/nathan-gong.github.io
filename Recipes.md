@@ -32,6 +32,6 @@ After indeterminate amount of time, add the saucey sauce. Baba opts for the foll
 - Small pinch pepper (optional)
 ![Side shot salmon](https://github.com/nathan-gong/nathan-gong.github.io/raw/master/images/IMG_0152.JPG){:height="500px" width="700px"}
 
-Eat. for tonight’s meal, other dishes include bok choy, pork with spicy peppers and shiitake mushrooms, eggplant, random leftovers. 
+Eat. for tonight’s meal, other dishes include bok choy, pork with spicy peppers and shiitake mushrooms, eggplant, random leftovers.
 ![Post-salmon and others](https://github.com/nathan-gong/nathan-gong.github.io/raw/master/images/IMG_0153.JPG){:height="500px" width="700px"}
 
