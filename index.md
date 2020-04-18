@@ -1,4 +1,4 @@
-![Recipes](https://nathan-gong.github.io/recipes)
+[Recipes](https://nathan-gong.github.io/recipes)
 
 ## Welcome to GitHub Pages
 
