@@ -5,7 +5,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: greenyellow
+    color: black;
 }
 
 a:visited {
@@ -25,7 +25,6 @@ i {
 }
 
 i:hover {
-    color: greenyellow;
     text-decoration: none;
 } 
 
@@ -64,7 +63,7 @@ nav ul {
 }
 
 .home a:hover {
-    text-decoration: underline;
+    text-decoration: underline overline;
 }
 
 .jumbotron {
@@ -86,9 +85,33 @@ nav ul {
 }
 
 .pages a:hover {
-    text-decoration: underline;
+    text-decoration: underline overline;
+}
+
+#email:hover {
+    color: #0072c6;
+}
+
+#facebook:hover {
+    color: #4267b2;
+}
+
+#github:hover {
+    color: #6e5494;
 }
 
 #headline {
     color: gray;
 }   
+
+#instagram:hover {
+    color: #c13584;
+}
+
+#linkedin:hover {
+    color: #0e76a8; 
+}
+
+#youtube:hover {
+    color: #ff0000;
+}

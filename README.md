@@ -1,5 +1,5 @@
 # nathan-gong.github.io
-My personal site. 
+My personal website. 
 
 Dependencies:
 
