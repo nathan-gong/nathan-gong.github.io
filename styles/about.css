@@ -1,3 +1,33 @@
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+	margin: 0;
+}
+
+nav li {
+    margin: 0;
+    padding: 0 30px;
+    float: right;
+}
+
+nav ul {
+    list-style: none;
+}
+
 p {
     background-color:white;
 }
@@ -12,7 +42,23 @@ p {
     text-decoration: underline dotted;
 }
 
+.home {
+    float: left;
+}
+
+.home a {
+    margin-left: 30px;
+}
+
+.home a:hover {
+    text-decoration: underline overline;
+}
+
 .jumbotron {
     font-family: 'Palatino Linotype', Palatino, serif;
     background-color: white;
+}
+
+.pages a:hover {
+    text-decoration: underline overline;
 }
