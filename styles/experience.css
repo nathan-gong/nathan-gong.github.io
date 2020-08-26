@@ -28,10 +28,6 @@ nav ul {
     list-style: none;
 }
 
-p {
-    background-color:white;
-}
-
 .container {
     background-color: white;
     font-family: 'Palatino Linotype', Palatino, serif;
@@ -53,29 +49,10 @@ p {
     text-decoration: underline overline;
 }
 
-.jumbotron {
-    font-family: 'Palatino Linotype', Palatino, serif;
-    background-color: white;
-}
-
 .pages a:hover {
     text-decoration: underline overline;
 }
 
 #maintext {
     padding-top: 70px;
-}
-
-#sma {
-    text-decoration: underline;
-    color: black;
-}
-
-#sma:hover {
-    text-decoration: underline;
-    color: blue;
-}
-
-#sma:visited {
-    text-decoration: none;
 }
