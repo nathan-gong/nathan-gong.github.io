@@ -53,11 +53,6 @@ p {
     text-decoration: underline overline;
 }
 
-.jumbotron {
-    font-family: 'Palatino Linotype', Palatino, serif;
-    background-color: white;
-}
-
 .pages a:hover {
     text-decoration: underline overline;
 }

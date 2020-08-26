@@ -53,6 +53,20 @@ nav ul {
     text-decoration: underline overline;
 }
 
+#link {
+    text-decoration: underline;
+    color: black;
+}
+
+#link:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+#link:visited {
+    text-decoration: none;
+}
+
 #maintext {
     padding-top: 70px;
 }
