@@ -53,20 +53,20 @@ nav ul {
     text-decoration: underline overline;
 }
 
-#maintext {
-    padding-top: 70px;
-}
-
-#sma {
+#link {
     text-decoration: underline;
     color: black;
 }
 
-#sma:hover {
+#link:hover {
     text-decoration: underline;
     color: blue;
 }
 
-#sma:visited {
+#link:visited {
     text-decoration: none;
+}
+
+#maintext {
+    padding-top: 70px;
 }
