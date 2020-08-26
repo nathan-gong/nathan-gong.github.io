@@ -5,3 +5,4 @@ Dependencies:
 
 - Bootstrap
 - Font Awesome
+- jQuery
