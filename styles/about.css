@@ -35,6 +35,7 @@ p {
 .container {
     background-color: white;
     font-family: 'Palatino Linotype', Palatino, serif;
+    padding: 50px;
 }
 
 .container h1 {
@@ -61,4 +62,18 @@ p {
 
 .pages a:hover {
     text-decoration: underline overline;
+}
+
+#sma {
+    text-decoration: underline;
+    color: black;
+}
+
+#sma:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+#sma:visited {
+    text-decoration: none;
 }
