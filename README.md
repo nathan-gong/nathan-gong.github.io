@@ -7,3 +7,4 @@ Dependencies:
 - Font Awesome
 - jQuery
 - Popper
+- Anime.js

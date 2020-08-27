@@ -32,6 +32,10 @@ nav ul {
     list-style: none;
 }
 
+.btn {
+    padding: .2rem .2rem;
+}
+
 .container {
     background-color: white;
     font-family: 'Palatino Linotype', Palatino, serif;
@@ -53,17 +57,15 @@ nav ul {
     text-decoration: underline overline;
 }
 
-.ml13 {
-    font-size: 1.9em;
-    text-transform: uppercase;
-    letter-spacing: 0.5em;
-    font-weight: 600;
-  }
+/* .ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+} */
   
-  .ml13 .letter {
+.ml2 .letter {
     display: inline-block;
     line-height: 1em;
-  }
+}
 
 .pages a:hover {
     text-decoration: underline overline;
