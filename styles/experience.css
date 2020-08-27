@@ -18,6 +18,10 @@ body {
 	margin: 0;
 }
 
+code {
+    background-color: black;
+}
+
 nav li {
     margin: 0;
     padding: 0 30px;
@@ -49,6 +53,18 @@ nav ul {
     text-decoration: underline overline;
 }
 
+.ml13 {
+    font-size: 1.9em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    font-weight: 600;
+  }
+  
+  .ml13 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
 .pages a:hover {
     text-decoration: underline overline;
 }
@@ -69,4 +85,9 @@ nav ul {
 
 #maintext {
     padding-top: 70px;
+}
+
+#shade {
+    text-shadow: 1.5px 1.5px red;
+    background-color: greenyellow;
 }
