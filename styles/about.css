@@ -53,6 +53,15 @@ nav ul {
     text-decoration: underline overline;
 }
 
+.parallax {
+    background-image: url('../images/typing.jpeg');
+    height: 400px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
 #maintext {
     padding-top: 70px;
 }

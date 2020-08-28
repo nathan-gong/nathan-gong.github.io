@@ -1,7 +1,7 @@
 # nathan-gong.github.io
 My personal website. 
 
-Dependencies:
+Libraries:
 
 - Bootstrap
 - Font Awesome
