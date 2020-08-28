@@ -37,6 +37,10 @@ nav ul {
     text-align: center;
 }
 
+.container h3 {
+    text-align: center;
+}
+
 .home {
     float: left;
 }
@@ -49,33 +53,19 @@ nav ul {
     text-decoration: underline overline;
 }
 
+.jumbotron {
+    background-color: white;
+    font-family: 'Palatino Linotype', Palatino, serif;
+}
+
+.jumbotron h1 {
+    text-align: center;
+}
+
 .pages a:hover {
     text-decoration: underline overline;
 }
 
-.parallax {
-    background-image: url('../images/typing.jpeg');
-    height: 400px; 
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 #maintext {
     padding-top: 70px;
-}
-
-#sma {
-    text-decoration: underline;
-    color: black;
-}
-
-#sma:hover {
-    text-decoration: underline;
-    color: blue;
-}
-
-#sma:visited {
-    text-decoration: none;
 }
