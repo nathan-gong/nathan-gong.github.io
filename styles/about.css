@@ -15,7 +15,9 @@ a:visited {
 body {
     height: 100%;
     width: 100%;
-	margin: 0;
+    margin: 0;
+    opacity: 0; 
+    transition: opacity 1.5s; 
 }
 
 nav li {

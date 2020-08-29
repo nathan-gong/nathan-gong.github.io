@@ -15,7 +15,9 @@ a:visited {
 body {
     height: 100%;
     width: 100%;
-	margin: 0;
+    margin: 0;
+    opacity: 0; 
+    transition: opacity 1s; 
 }
 
 nav li {
@@ -28,18 +30,19 @@ nav ul {
     list-style: none;
 }
 
-.card{
+.card {
     border-radius: 10px;
     background: #fff;
-    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
-      transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
-  padding: 10px 10px 10px 10px;
-  cursor: pointer;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, .08), 0 0 6px rgba(0, 0, 0, .05);
+    transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12);
+    padding: 10px 10px 10px 10px;
+    cursor: pointer;
 }
 
-.card:hover{
-     transform: scale(1.05);
-  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+    cursor: default;
 }
 
 .container {
