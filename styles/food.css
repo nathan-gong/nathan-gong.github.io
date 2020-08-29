@@ -12,11 +12,20 @@ a:visited {
     text-decoration: none;
 }
 
+a img {
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
 body {
     height: 100%;
     width: 100%;
 	margin: 0;
 }
+
+/* add image hover effects*/
 
 nav li {
     margin: 0;
@@ -26,6 +35,13 @@ nav li {
 
 nav ul {
     list-style: none;
+}
+
+.col-md-3 {
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 .container {
@@ -51,15 +67,6 @@ nav ul {
 
 .home a:hover {
     text-decoration: underline overline;
-}
-
-.jumbotron {
-    background-color: white;
-    font-family: 'Palatino Linotype', Palatino, serif;
-}
-
-.jumbotron h1 {
-    text-align: center;
 }
 
 .pages a:hover {
