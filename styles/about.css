@@ -30,6 +30,10 @@ nav ul {
     list-style: none;
 }
 
+.btn {
+    padding: .2rem .2rem;
+}
+
 .container {
     background-color: white;
     font-family: 'Palatino Linotype', Palatino, serif;
@@ -37,6 +41,10 @@ nav ul {
 
 .container h1 {
     text-align: center;
+}
+
+#demo p {
+    margin-bottom: 0px;
 }
 
 .parallax {
