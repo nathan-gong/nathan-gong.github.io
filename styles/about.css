@@ -39,22 +39,6 @@ nav ul {
     text-align: center;
 }
 
-.home {
-    float: left;
-}
-
-.home a {
-    margin-left: 30px;
-}
-
-.home a:hover {
-    text-decoration: underline overline;
-}
-
-.pages a:hover {
-    text-decoration: underline overline;
-}
-
 .parallax {
     background-image: url('../images/elbyskillsback.jpeg');
     height: 400px; 

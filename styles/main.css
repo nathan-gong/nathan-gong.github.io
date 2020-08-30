@@ -56,18 +56,6 @@ nav ul {
     font-family: 'Palatino Linotype', Palatino, serif;
 }
 
-.home {
-    float: left;
-}
-
-.home a {
-    margin-left: 30px;
-}
-
-.home a:hover {
-    text-decoration: underline overline;
-}
-
 .jumbotron {
     font-family: 'Palatino Linotype', Palatino, serif;
     font-size: xx-small;
@@ -84,10 +72,6 @@ nav ul {
 .main {
     text-align: center;
     margin: 30px;
-}
-
-.pages a:hover {
-    text-decoration: underline overline;
 }
 
 #email:hover {

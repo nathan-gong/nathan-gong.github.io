@@ -46,31 +46,10 @@ nav ul {
 .container h1 {
     text-align: center;
 }
-
-.home {
-    float: left;
-}
-
-.home a {
-    margin-left: 30px;
-}
-
-.home a:hover {
-    text-decoration: underline overline;
-}
-
-/* .ml2 {
-    font-weight: 900;
-    font-size: 3.5em;
-} */
   
 .ml2 .letter {
     display: inline-block;
     line-height: 1em;
-}
-
-.pages a:hover {
-    text-decoration: underline overline;
 }
 
 #link {
